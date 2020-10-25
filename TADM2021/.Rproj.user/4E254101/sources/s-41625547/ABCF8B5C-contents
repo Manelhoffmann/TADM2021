@@ -1,0 +1,31 @@
+---
+title: "Estructura de datos"
+author: "Curtso de Estadística descriptiva"
+date: "23/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Vectores
+
+Todos los objetos que el vector contiene deben ser del mismo tipo. 
+
+* lógicos  (`logical`) `TRUE`o `FALSE`
+* númerico `numeric`: `integer`, `complex`...
+* string `character`
+
+
+# Listas 
+
+Conienen conjuntos de datos que pueden ser heterogéneos
+
+x <- (1:10)
+
+```{r}
+f <- function(x){sqrt(x)}
+plot(f)
+```
+
