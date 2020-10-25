@@ -1,2 +1,4 @@
-Hola chato aixo es un nou ficher
+Hola chato aixo es un nou
+
+ficher
 
